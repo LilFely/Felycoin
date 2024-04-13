@@ -1,3 +1,8 @@
+Before you read this: I tried to make my own cyrpto currency but I am lazy and have 0 comupter skills so i got help from chat gtp and takings Bitcoins code. Bitcoin dont sue me iIchange the name on most things I think. Also some files are zips
+
+Here is their thing. Im not sur
+
+
 Felycoin Core integration/staging tree
 =====================================
 
